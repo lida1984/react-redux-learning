@@ -8,6 +8,7 @@ class Counter extends Component {
       <div>
         <span>{value}</span>
         <button onClick={onIncreaseClick}>Increase</button>
+        
       </div>
     )
   }
